@@ -8,4 +8,4 @@ Nervos gitcoin hackathon
 
 ### ckb-indexer
 
-<img src="indexer.png">
+<img src="ckb_indexer.png">
