@@ -4,7 +4,7 @@ Nervos gitcoin hackathon
 
 ### A screenshot of the accounts you created (account list) in ckb-cli
 
-<img src="accounts.png">
+<img src="account.png">
 
 ## A link to the Layer 1 address you funded on the Testnet Explorer
 
