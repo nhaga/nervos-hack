@@ -4,9 +4,9 @@ Nervos gitcoin hackathon
 
 1. Screenshots or video of your application running on Godwoken.
 
-   <img src="Screen1.png">
-
-   <img src="Screen2.png">
+<video src="Nervos Task 7.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
 2. Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 
@@ -14,9 +14,9 @@ Nervos gitcoin hackathon
 
 3. If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
-Deployed contract: `0x28aC325e763651d44bBf14D77540ca4397400EdA`
+Deployed contract: `0xB8d7e5dd5987225371dD90b5BdBdC7ff25D8CAc5`
 
-Deployment transaction hash: ``
+Deployment transaction hash: `0xa6642c480e0650a9604bdf4dacf093c6097475a31599f7cdff5f54a6f7ac1dce`
 
 Contract ABI:
 
