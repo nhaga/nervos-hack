@@ -312,6 +312,9 @@ export default {
     AccountInfo
   },
   setup () {
+
+
+
     const account = ref('')
     const polyjuiceAccount = computed(() => {
       if (account.value.length > 0) {
@@ -342,6 +345,7 @@ export default {
 
     })
 
+
     async function loadInfo () {
       const coinbase = window.ethereum.selectedAddress //await web3.value.eth.getCoinbase()
       const bal = await web3.value.eth.getBalance(coinbase)
@@ -357,6 +361,8 @@ export default {
         contractAddress.value = await _contract.deploy(
           [auctionName.value, timeoutPriod.value],
           account.value)
+
+        console.log(contractAddress.value)
 
       } catch (error) {
         console.error(error)

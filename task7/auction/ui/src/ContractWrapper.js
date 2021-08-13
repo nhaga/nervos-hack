@@ -20,10 +20,11 @@ export class ContractWrapper {
               ...DEFAULT_SEND_OPTIONS,
               from: fromAddress,
               to: '0x0000000000000000000000000000000000000000'
-            })
+          })
+      console.log(contract)
 
     this.useDeployed(contract.contractAddress)
-    return contract._address
+    return contract.contractAddress
     
     }
   
