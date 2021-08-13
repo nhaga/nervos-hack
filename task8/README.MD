@@ -13,3 +13,5 @@ Nervos gitcoin hackathon
    `0xFbEb2b8090F6d00E710b5CCB99613148b14Cf5f1`
 
 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
+
+   https://github.com/nhaga/nervos-hack/tree/main/task8/auction
