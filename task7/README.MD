@@ -4,9 +4,7 @@ Nervos gitcoin hackathon
 
 1. Screenshots or video of your application running on Godwoken.
 
-<video src="https://github.com/nhaga/nervos-hack/blob/main/task7/Nervos%20Task%207.mp4?raw=true" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/nhaga/nervos-hack/blob/main/task7/Nervos%20Task%207.mp4?raw=true
 
 2. Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 
