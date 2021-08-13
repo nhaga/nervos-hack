@@ -4,7 +4,7 @@ Nervos gitcoin hackathon
 
 1. Screenshots or video of your application running on Godwoken.
 
-<video src="Nervos Task 7.mp4" controls>
+<video src="https://github.com/nhaga/nervos-hack/blob/main/task7/Nervos%20Task%207.mp4?raw=true" controls>
   Your browser does not support the video tag.
 </video>
 
