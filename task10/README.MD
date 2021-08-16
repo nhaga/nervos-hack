@@ -4,7 +4,9 @@ Nervos gitcoin hackathon
 
 1. A screenshot of the console output immediately after running the "unlock" command.
 
-   <img src="unlock.png">
+   <img src="unlock1.png">
+
+   <img src="unlock2.png">
 
 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 
